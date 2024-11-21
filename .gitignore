@@ -1,0 +1,4 @@
+backend/node_modules
+backend/package-lock.json
+my-remix-app/node_modules
+my-remix-app/package-lock.json
